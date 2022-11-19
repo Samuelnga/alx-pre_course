@@ -1,0 +1,7 @@
+echo
+!/bin/bash
+ALX >> alx
+
+
+cat alx
+echo ALX
