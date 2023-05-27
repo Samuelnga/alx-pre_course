@@ -1,0 +1,13 @@
+#!/bin/bash
+echo "School"
+
+^c
+:q
+
+
+
+ctrlb
+cd ..
+ctrld
+ld
+d
